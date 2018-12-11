@@ -3,7 +3,7 @@ My projects
 Installation To view my portfolio:
  -extract rar files 
  -copy and paste them to your xammp or lammp htdocs folder
- -run my website 
+ -run my website file named "portfolio"
  
 
 1)Inventory for small businesses
