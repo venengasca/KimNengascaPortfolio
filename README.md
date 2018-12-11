@@ -1,5 +1,11 @@
 # KimNengascaPortfolio
 My projects 
+Installation To view my portfolio:
+ -extract rar files 
+ -copy and paste them to your xammp or lammp htdocs folder
+ -run my website 
+ 
+
 1)Inventory for small businesses
  Installation:
 	 -extract rar files 
